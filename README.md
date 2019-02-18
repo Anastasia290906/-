@@ -1,11 +1,10 @@
-<!doctype html>
 <html>
 <head>
 <title>Карта по местам съемок фильма "Москва слезам не верит"</title>
 <meta charset="UTF-8">
 <link rel="icon" href="favicon.ico">
 <link rel="stylesheet" href="style.css">
-<script src="script.js" type="text/javascript"></script>
+
   <left><img alt="Постер фильма" width="15%" src="moscow.jpg"></left>
 </head>
 <body>
