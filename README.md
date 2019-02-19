@@ -1,4 +1,4 @@
-<title>Карта по местам съемок фильма "Москва слезам не верит"</title>
+<h1>Карта по местам съемок фильма "Москва слезам не верит"</h1>
 <meta charset="UTF-8">
 <link rel="icon" href="favicon.ico">
 <link rel="stylesheet" href="style.css">
